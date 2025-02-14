@@ -1,6 +1,8 @@
 # 💫 About Me:
 hey I'm Ahmed Aziz 
-I'm currently working on web development <br>I'm learning C and python <br>Ask me about dsa in C<br>
+I'm currently working on web application development in Java<br>
+Proficient in C,Java,Javascript and SQL programming.<br>
+
 
 
 ## 🌐 Socials:
